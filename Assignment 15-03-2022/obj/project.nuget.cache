@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "iwJvp9OHO3pOaAE/hP6NCbLLMJ5/YO1dAmqJ9WJ3EoB1u9Y5emSANwnFewQB0CLjThygNbHQuVETWAXUgMzIew==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Coditas\\source\\repos\\MiniProject-1-2-2022\\Assignment 15-03-2022\\Assignment 15-03-2022.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project Assignment 08-03-2022 is not compatible with net5.0 (.NETCoreApp,Version=v5.0). Project Assignment 08-03-2022 supports: net6.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "Assignment 08-03-2022",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

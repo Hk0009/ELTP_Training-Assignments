@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\bin\Debug\net6.0\Ef_CoreDbfirst.deps.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\bin\Debug\net6.0\Ef_CoreDbfirst.runtimeconfig.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\bin\Debug\net6.0\Ef_CoreDbfirst.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\bin\Debug\net6.0\Ef_CoreDbfirst.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\obj\Debug\net6.0\Ef_CoreDbfirst.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\obj\Debug\net6.0\Ef_CoreDbfirst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\obj\Debug\net6.0\Ef_CoreDbfirst.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\obj\Debug\net6.0\Ef_CoreDbfirst.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\obj\Debug\net6.0\Ef_CoreDbfirst.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\obj\Debug\net6.0\Ef_CoreDbfirst.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\obj\Debug\net6.0\Ef_CoreDbfirst.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\obj\Debug\net6.0\Ef_CoreDbfirst.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\obj\Debug\net6.0\ref\Ef_CoreDbfirst.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Ef_CoreDbfirst\obj\Debug\net6.0\refint\Ef_CoreDbfirst.dll

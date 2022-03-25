@@ -1,0 +1,16 @@
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\bin\Release\net5.0\Asiignment 9.exe
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\bin\Release\net5.0\Asiignment 9.deps.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\bin\Release\net5.0\Asiignment 9.runtimeconfig.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\bin\Release\net5.0\Asiignment 9.runtimeconfig.dev.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\bin\Release\net5.0\Asiignment 9.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\bin\Release\net5.0\ref\Asiignment 9.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\bin\Release\net5.0\Asiignment 9.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\obj\Release\net5.0\Asiignment 9.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\obj\Release\net5.0\Asiignment 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\obj\Release\net5.0\Asiignment 9.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\obj\Release\net5.0\Asiignment 9.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\obj\Release\net5.0\Asiignment 9.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\obj\Release\net5.0\Asiignment 9.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\obj\Release\net5.0\ref\Asiignment 9.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\obj\Release\net5.0\Asiignment 9.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Asiignment 9\obj\Release\net5.0\Asiignment 9.genruntimeconfig.cache

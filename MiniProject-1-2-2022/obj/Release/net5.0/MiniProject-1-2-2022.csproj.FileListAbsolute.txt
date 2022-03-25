@@ -1,0 +1,16 @@
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\bin\Release\net5.0\MiniProject-1-2-2022.exe
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\bin\Release\net5.0\MiniProject-1-2-2022.deps.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\bin\Release\net5.0\MiniProject-1-2-2022.runtimeconfig.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\bin\Release\net5.0\MiniProject-1-2-2022.runtimeconfig.dev.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\bin\Release\net5.0\MiniProject-1-2-2022.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\bin\Release\net5.0\ref\MiniProject-1-2-2022.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\bin\Release\net5.0\MiniProject-1-2-2022.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\obj\Release\net5.0\MiniProject-1-2-2022.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\obj\Release\net5.0\MiniProject-1-2-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\obj\Release\net5.0\MiniProject-1-2-2022.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\obj\Release\net5.0\MiniProject-1-2-2022.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\obj\Release\net5.0\MiniProject-1-2-2022.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\obj\Release\net5.0\MiniProject-1-2-2022.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\obj\Release\net5.0\ref\MiniProject-1-2-2022.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\obj\Release\net5.0\MiniProject-1-2-2022.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\MiniProject-1-2-2022\obj\Release\net5.0\MiniProject-1-2-2022.genruntimeconfig.cache

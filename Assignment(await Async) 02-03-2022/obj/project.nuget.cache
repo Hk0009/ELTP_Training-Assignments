@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i3JiMfC67L6o3eCNuIIgW/qYqJAC55UGeeRt0joymDnEG9Nrischi3386317EWumVM/R2TQnAEMeUJ2sjSwG6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Coditas\\source\\repos\\MiniProject-1-2-2022\\Assignment(await Async) 02-03-2022\\Assignment(await Async) 02-03-2022.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Coditas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

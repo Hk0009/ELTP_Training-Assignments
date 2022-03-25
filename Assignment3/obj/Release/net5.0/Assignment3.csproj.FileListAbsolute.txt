@@ -1,0 +1,15 @@
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\bin\Release\net5.0\Assignment3.exe
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\bin\Release\net5.0\Assignment3.deps.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\bin\Release\net5.0\Assignment3.runtimeconfig.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\bin\Release\net5.0\Assignment3.runtimeconfig.dev.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\bin\Release\net5.0\Assignment3.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\bin\Release\net5.0\ref\Assignment3.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\bin\Release\net5.0\Assignment3.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\obj\Release\net5.0\Assignment3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\obj\Release\net5.0\Assignment3.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\obj\Release\net5.0\Assignment3.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\obj\Release\net5.0\Assignment3.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\obj\Release\net5.0\Assignment3.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\obj\Release\net5.0\ref\Assignment3.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\obj\Release\net5.0\Assignment3.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment3\obj\Release\net5.0\Assignment3.genruntimeconfig.cache

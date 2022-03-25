@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\bin\Debug\net6.0\ClinicSystem.deps.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\bin\Debug\net6.0\ClinicSystem.runtimeconfig.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\bin\Debug\net6.0\ClinicSystem.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\bin\Debug\net6.0\ClinicSystem.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\obj\Debug\net6.0\ClinicSystem.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\obj\Debug\net6.0\ClinicSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\obj\Debug\net6.0\ClinicSystem.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\obj\Debug\net6.0\ClinicSystem.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\obj\Debug\net6.0\ClinicSystem.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\obj\Debug\net6.0\ClinicSystem.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\obj\Debug\net6.0\ClinicSystem.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\obj\Debug\net6.0\ClinicSystem.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\obj\Debug\net6.0\ref\ClinicSystem.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicSystem\obj\Debug\net6.0\refint\ClinicSystem.dll

@@ -1,0 +1,14 @@
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\bin\Debug\net6.0\ClinicOperationns.deps.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\bin\Debug\net6.0\ClinicOperationns.runtimeconfig.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\bin\Debug\net6.0\ClinicOperationns.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\bin\Debug\net6.0\ClinicOperationns.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\obj\Debug\net6.0\ClinicOperationns.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\obj\Debug\net6.0\ClinicOperationns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\obj\Debug\net6.0\ClinicOperationns.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\obj\Debug\net6.0\ClinicOperationns.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\obj\Debug\net6.0\ClinicOperationns.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\obj\Debug\net6.0\ClinicOperationns.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\obj\Debug\net6.0\ClinicOperationns.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\obj\Debug\net6.0\ClinicOperationns.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\obj\Debug\net6.0\ref\ClinicOperationns.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\ClinicOperationns\bin\Debug\net6.0\ref\ClinicOperationns.dll

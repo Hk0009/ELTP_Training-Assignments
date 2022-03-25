@@ -1,0 +1,8 @@
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment 24-02-2022\bin\Release\Assignment 24-02-2022.exe.config
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment 24-02-2022\bin\Release\Assignment 24-02-2022.exe
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment 24-02-2022\bin\Release\Assignment 24-02-2022.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment 24-02-2022\obj\Release\Assignment 24-02-2022.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment 24-02-2022\obj\Release\Assignment 24-02-2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment 24-02-2022\obj\Release\Assignment 24-02-2022.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment 24-02-2022\obj\Release\Assignment 24-02-2022.exe
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignment 24-02-2022\obj\Release\Assignment 24-02-2022.pdb

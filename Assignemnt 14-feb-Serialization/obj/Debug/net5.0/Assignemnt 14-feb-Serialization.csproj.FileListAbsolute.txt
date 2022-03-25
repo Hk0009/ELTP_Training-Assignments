@@ -1,0 +1,16 @@
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\bin\Debug\net5.0\Assignemnt 14-feb-Serialization.exe
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\bin\Debug\net5.0\Assignemnt 14-feb-Serialization.deps.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\bin\Debug\net5.0\Assignemnt 14-feb-Serialization.runtimeconfig.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\bin\Debug\net5.0\Assignemnt 14-feb-Serialization.runtimeconfig.dev.json
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\bin\Debug\net5.0\Assignemnt 14-feb-Serialization.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\bin\Debug\net5.0\Assignemnt 14-feb-Serialization.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\obj\Debug\net5.0\Assignemnt 14-feb-Serialization.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\obj\Debug\net5.0\Assignemnt 14-feb-Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\obj\Debug\net5.0\Assignemnt 14-feb-Serialization.AssemblyInfoInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\obj\Debug\net5.0\Assignemnt 14-feb-Serialization.AssemblyInfo.cs
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\obj\Debug\net5.0\Assignemnt 14-feb-Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\obj\Debug\net5.0\Assignemnt 14-feb-Serialization.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\obj\Debug\net5.0\ref\Assignemnt 14-feb-Serialization.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\obj\Debug\net5.0\Assignemnt 14-feb-Serialization.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\obj\Debug\net5.0\Assignemnt 14-feb-Serialization.genruntimeconfig.cache
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\Assignemnt 14-feb-Serialization\obj\Debug\net5.0\refint\Assignemnt 14-feb-Serialization.dll

@@ -1,0 +1,4 @@
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\LogicClinic\bin\Release\net6.0\win-x64\publish\Clinic management\LogicClinic.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\LogicClinic\bin\Release\net6.0\win-x64\publish\Clinic management\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\LogicClinic\bin\Release\net6.0\win-x64\publish\Clinic management\ClinicSystem.pdb
+C:\Users\Coditas\source\repos\MiniProject-1-2-2022\LogicClinic\bin\Release\net6.0\win-x64\publish\Clinic management\LogicClinic.exe

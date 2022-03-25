@@ -1,0 +1,8 @@
+C:\Users\Coditas\source\repos\New File IO\Crud\bin\Debug\Crud.exe.config
+C:\Users\Coditas\source\repos\New File IO\Crud\bin\Debug\Crud.exe
+C:\Users\Coditas\source\repos\New File IO\Crud\bin\Debug\Crud.pdb
+C:\Users\Coditas\source\repos\New File IO\Crud\obj\Debug\Crud.csproj.AssemblyReference.cache
+C:\Users\Coditas\source\repos\New File IO\Crud\obj\Debug\Crud.csproj.SuggestedBindingRedirects.cache
+C:\Users\Coditas\source\repos\New File IO\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+C:\Users\Coditas\source\repos\New File IO\Crud\obj\Debug\Crud.exe
+C:\Users\Coditas\source\repos\New File IO\Crud\obj\Debug\Crud.pdb
